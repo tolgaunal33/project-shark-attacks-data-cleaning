@@ -80,13 +80,13 @@ The script will generate outputs like charts and CSV reports to summarize findin
 
 This project is a collaborative effort by:
 
-Tolga Ünal - tolgaunal1999@gmail.com
+Beatriz  -  - Hypothesis 1 Analysis
 
-Charlotte Guedj - charlotte.guedj@gmail.com
+Borja Cervera  - borja_cervera@hotmail.com - Hypothesis 2 Analysis
 
-Borja  - Hypothesis 2 Analysis
+Tolga Ünal - tolgaunal1999@gmail.com - Hypothesis 3 Analysis
 
-Beatrize  - Hypothesis 3 Analysis
+Charlotte Guedj - charlotte.guedj@gmail.com - Hypothesis 4 Analysis
 
 # 📜 License
 
