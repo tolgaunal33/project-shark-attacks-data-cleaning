@@ -6,13 +6,13 @@
 # 🔍 Hypotheses
 We aim to validate the following hypotheses using the Shark Attack dataset:
 
-Surfing has the highest association with shark attacks.
+1. Surfing has the highest association with shark attacks.
 
-Popular tourist destinations have more shark attacks due to increased water activity.
+2. Popular tourist destinations have more shark attacks due to increased water activity.
 
-Shark attacks peak in summer, aligning with increased beach activity.
+3. Shark attacks peak in summer, aligning with increased beach activity.
 
-Select beaches in Australia, Mexico, Portugal, and South Africa show lower fatal shark attack rates, making them safer options for surf schools.
+4. Select beaches in Australia, Mexico, Portugal, and South Africa show lower fatal shark attack rates, making them safer options for surf schools.
 
 # 🛠️ Technologies/Tools
 
