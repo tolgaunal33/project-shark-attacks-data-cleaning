@@ -80,7 +80,7 @@ The script will generate outputs like charts and CSV reports to summarize findin
 
 This project is a collaborative effort by:
 
-Beatriz  -  - Hypothesis 1 Analysis
+Beatriz Veiga - biaveiga@sapo.pt - Hypothesis 1 Analysis
 
 Borja Cervera  - borja_cervera@hotmail.com - Hypothesis 2 Analysis
 
